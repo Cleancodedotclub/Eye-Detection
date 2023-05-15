@@ -1,2 +1,2 @@
-# Eye-Detection
- Python Eye Detection is a GitHub repository containing code for detecting eyes in images using Python. It utilizes the OpenCV library and Haar Cascade classifiers to detect the eyes and draw a rectangle around them.
+
+Python Eye Detection is a GitHub repository containing code for detecting eyes in images using Python. It utilizes the OpenCV library and Haar Cascade classifiers to detect the eyes and draw a rectangle around them. The code can handle multiple faces in an image and can detect both eyes separately. This repository can be useful for image processing tasks that require eye detection such as facial recognition, tracking eye movements, and gaze tracking. The code is well documented and can be easily customized to fit specific use cases.
